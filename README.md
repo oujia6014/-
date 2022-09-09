@@ -4,6 +4,9 @@
 面试总结:
 https://juejin.cn/post/7137294579346178084
 
+http:
+https://juejin.cn/post/7139706559092752414#heading-0
+
 
 8.25
 promise，深拷贝
@@ -20,6 +23,7 @@ https://juejin.cn/post/7137961562794852383#heading-22
 
 webpack 
 https://juejin.cn/post/7137987107020079111
+https://juejin.cn/post/7138203576098095112
 
 
 promise原理：
